@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+This is the github repository that we use to bring all infos together around opensource.construction.
+
+You can find more detailed information in the "initiative" repo.
+
+For more info or further requests, please reach out to max@opensource.construction
+
+Talk to you soon!
+
 <!--
 
 **Here are some ideas to get you started:**
