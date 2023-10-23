@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-This is the github repository that we use to bring all infos together around opensource.construction.
+This is the github page that we use to bring all infos together around opensource.construction.
 
 You can find more detailed information in the "initiative" repo.
 
