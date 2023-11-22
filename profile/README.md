@@ -8,8 +8,6 @@ For more info or further requests, please reach out to max@opensource.constructi
 
 Talk to you soon!
 
-
-temporary Link: https://miro.com/app/board/uXjVNNmO2f0=/?share_link_id=218826889775
 <!--
 
 **Here are some ideas to get you started:**
